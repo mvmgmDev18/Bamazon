@@ -10,7 +10,7 @@ Node Packages: mysql, inquirer, console.table
 # How To Run
 1. Clone this repo and navigate to the folder via CLI.
 2. Run npm install for all packages required.
-3. Create a database in MySQL called Bamazon. Use bamazonSchema.sql to created the database.
+3. Create a database in MySQL called Bamazon. Use bamazonSchema.sql to create the database.
 4. Run node bamazonCustomer.js to view the Customer View dashboard.
 5. Follow the prompts, use the arrow keys to make selections and purchases.
 
