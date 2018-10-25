@@ -48,7 +48,7 @@ var run = function () {
             }
         ]).then(function (answer) {
             var chosenProduct;
-            for (var i = o; i, results.length; i++) {
+            for (var i = 0; i < results.length; i++) {
                 if (results[i].product_name === answer.product) {
                     chosenProduct = results[i];
                 }
